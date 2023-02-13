@@ -17,4 +17,9 @@ The following are key components of the Power BI ecosystem:
 - Mobile Power BI Apps:Power BI Mobile applications are available for Android, iOS, and Windows phones and tablets. (From Microsoft Power BI (2023, February 3)) Microsoft Power BI (https://en.wikipedia.org/wiki/Microsoft Power BI).
 
 **IN THE DATASET**
+
 During my training, I was given a financial data set to explore my data analysis skills using Power BI.In summary, the dataset consists of twenty-two (22) columns and over 5000 rows labeled as Row ID, Order ID, Order Date, Ship Date, Ship Mode, Customer ID, Customer Name, Segment, Country, City, State, Postal Code, Region, Product ID, Category, Sub-Category, Product Name, Sales, Quantity, Discount, Profit, and Profit Margin.
+
+**CLEANING THE DATASET**
+
+As previously discussed in my previous project, the importance of data cleaning cannot be overstated in order to achieve a suitable result upon visualization.My cleaning procedure in Excel comprises deleting blanks and duplicates and converting to a table with color formatting.
