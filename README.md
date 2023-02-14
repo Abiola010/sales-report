@@ -64,7 +64,7 @@ Figure 4.3: Pie Chart & Stacked Area Chart
 **Overview at a glance**
 
 ![Screenshot (265)](https://user-images.githubusercontent.com/124578882/218775791-1d3b02e8-7e36-4b91-adb1-f9b638d6f67b.png)
-
+Figure 4.4: Report at a glance
 
 
 
@@ -72,6 +72,6 @@ Figure 4.3: Pie Chart & Stacked Area Chart
 **SALES AND PROFIT OVERVIEW:** This page displays profit by city, regional sales totals, and the top five sub-categories by sales in various charts.
 
 ![Screenshot (263)](https://user-images.githubusercontent.com/124578882/218764165-cf0fde2b-11e4-454d-bf48-890edb8ceb6c.png)
+Figure 5: Sales and profit  in chart
 
-
-**Finally,** more profit was produced in the west, particularly in New York, whereas phones are the top-selling sub-category.
+**In summary,** more profit was produced in the west, particularly in New York, whereas phones are the top-selling sub-category.
