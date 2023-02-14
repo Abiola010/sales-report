@@ -30,3 +30,6 @@ After launching my Power BI Desktop, which I downloaded from its website, I ente
                                       Figure 1: fact and dimension table in Data view
 
 After importing my dataset into Power BI, I was able to see the link between my fact table and dimension table using the model view.
+![Screenshot (251b)](https://user-images.githubusercontent.com/124578882/218754081-526c4b20-de9d-4172-b5fd-ea8297952922.png)
+Figure 2: Model view; Relationship between fact and dimension tables
+
