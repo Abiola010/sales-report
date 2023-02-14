@@ -43,3 +43,5 @@ Figure 3: Front page
 
  
 **Overview page:**  This page displays total sales, total profit, the number of states, and product categories.
+![Screenshot (255)](https://user-images.githubusercontent.com/124578882/218763119-f8e2cfa9-5ab6-4d5c-9088-bbfe4e7e7a9f.png)
+Figure 4.1: Overview page
