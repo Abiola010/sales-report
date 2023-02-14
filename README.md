@@ -54,6 +54,10 @@ Figure 4.2: Line chart & Bar Chart
 ![Screenshot (258)](https://user-images.githubusercontent.com/124578882/218764297-8552263f-93e0-4685-848f-76108144c5f3.png)
 Figure 4.3: Pie Chart & Stacked Area Chart
 
+**Overview at a glance**
+
+![Screenshot (265)](https://user-images.githubusercontent.com/124578882/218775791-1d3b02e8-7e36-4b91-adb1-f9b638d6f67b.png)
+
 
 **SALES AND PROFIT OVERVIEW:** This page displays profit by city, regional sales totals, and the top five sub-categories by sales in various charts.
 
