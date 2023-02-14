@@ -38,3 +38,8 @@ Figure 2: Model view; Relationship between fact and dimension tables
 Since visualization is sometimes referred to as the "face of every study," a lot of work has been spent on it, including in terms of page formatting, visual formatting, visual layout, and many other areas.
 
 **Front Page:**  This page includes the firm name, kind of report, and who developed the report, which was created using PowerPoint.
+![Screenshot (264)](https://user-images.githubusercontent.com/124578882/218758548-eeacdd49-9d6a-4b4f-995c-55141587bd03.png)
+Figure 3: Front page
+
+ 
+**Overview page:**  This page displays total sales, total profit, the number of states, and product categories.
