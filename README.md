@@ -49,5 +49,12 @@ Figure 4.1: Overview page
 ![Screenshot (256)](https://user-images.githubusercontent.com/124578882/218763466-a6fa286e-3c4d-4bed-8c46-c1b6edba9976.png)
 Figure 4.2: Line chart & Bar Chart
 
-![Screenshot (263)](https://user-images.githubusercontent.com/124578882/218763609-cfc2a3a9-f76a-4090-808c-715aa9165c76.png)
+![Screenshot (258)](https://user-images.githubusercontent.com/124578882/218764297-8552263f-93e0-4685-848f-76108144c5f3.png)
 Figure 4.3: Pie Chart & Stacked Area Chart
+
+
+**SALES AND PROFIT OVERVIEW:** This page displays profit by city, regional sales totals, and the top five sub-categories by sales in various charts.
+![Screenshot (263)](https://user-images.githubusercontent.com/124578882/218764165-cf0fde2b-11e4-454d-bf48-890edb8ceb6c.png)
+
+
+**Finally,** more profit was produced in the west, particularly in New York, whereas phones are the top-selling sub-category.
