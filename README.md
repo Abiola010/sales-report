@@ -25,3 +25,5 @@ During my training, I was given a financial data set to explore my data analysis
 As previously discussed in my previous project, the importance of data cleaning cannot be overstated in order to achieve a suitable result upon visualization.My cleaning procedure in Excel comprises deleting blanks and duplicates and converting to a table with color formatting.
 
 After launching my Power BI Desktop, which I downloaded from its website, I entered the data into the program using the acquire data option, where I can use power query to make some additional changes, such as grouping relevant columns together (such as location, city, state, region, post code, country, amongst other grouped columns), adding and deleting columns where appropriate, separating fact tables from dimension tables, identifying primary keys (i.e. the one with the lowest value in each group), and so on.
+
+![Screenshot (251)](https://user-images.githubusercontent.com/124578882/218732046-033a9427-82ac-407b-9e3d-b5546b4b31df.png)
