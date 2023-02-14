@@ -18,7 +18,7 @@ The following are key components of the Power BI ecosystem:
 
 **IN THE DATASET**
 
-During my training, I was given a financial data set to explore my data analysis skills using Power BI.In summary, the dataset consists of twenty-two (22) columns and over 5000 rows labeled as Row ID, Order ID, Order Date, Ship Date, Ship Mode, Customer ID, Customer Name, Segment, Country, City, State, Postal Code, Region, Product ID, Category, Sub-Category, Product Name, Sales, Quantity, Discount, Profit, and Profit Margin.
+During my training, I was given a financial data set (https://docs.google.com/spreadsheets/d/1ZNFEgWVu9aIWDsg9FvvvYxsAjuos2M7L/edit?usp=share_link&ouid=104831525385035733754&rtpof=true&sd=true) to explore my data analysis skills using Power BI.In summary, the dataset consists of twenty-two (22) columns and over 5000 rows labeled as Row ID, Order ID, Order Date, Ship Date, Ship Mode, Customer ID, Customer Name, Segment, Country, City, State, Postal Code, Region, Product ID, Category, Sub-Category, Product Name, Sales, Quantity, Discount, Profit, and Profit Margin.
 
 **CLEANING THE DATASET**
 
