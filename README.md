@@ -33,3 +33,7 @@ After importing my dataset into Power BI, I was able to see the link between my 
 ![Screenshot (251b)](https://user-images.githubusercontent.com/124578882/218754081-526c4b20-de9d-4172-b5fd-ea8297952922.png)
 Figure 2: Model view; Relationship between fact and dimension tables
 
+**DATA ANALYSIS**
+
+Since visualization is sometimes referred to as the "face of every study," a lot of work has been spent on it, including in terms of page formatting, visual formatting, visual layout, and many other areas.
+**Front Page:**  This page includes the firm name, kind of report, and who developed the report, which was created using PowerPoint.
