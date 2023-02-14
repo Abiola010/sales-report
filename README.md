@@ -36,4 +36,5 @@ Figure 2: Model view; Relationship between fact and dimension tables
 **DATA ANALYSIS**
 
 Since visualization is sometimes referred to as the "face of every study," a lot of work has been spent on it, including in terms of page formatting, visual formatting, visual layout, and many other areas.
+
 **Front Page:**  This page includes the firm name, kind of report, and who developed the report, which was created using PowerPoint.
