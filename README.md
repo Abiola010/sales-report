@@ -45,3 +45,9 @@ Figure 3: Front page
 **Overview page:**  This page displays total sales, total profit, the number of states, and product categories.
 ![Screenshot (255)](https://user-images.githubusercontent.com/124578882/218763119-f8e2cfa9-5ab6-4d5c-9088-bbfe4e7e7a9f.png)
 Figure 4.1: Overview page
+
+![Screenshot (256)](https://user-images.githubusercontent.com/124578882/218763466-a6fa286e-3c4d-4bed-8c46-c1b6edba9976.png)
+Figure 4.2: Line chart & Bar Chart
+
+![Screenshot (263)](https://user-images.githubusercontent.com/124578882/218763609-cfc2a3a9-f76a-4090-808c-715aa9165c76.png)
+Figure 4.3: Pie Chart & Stacked Area Chart
