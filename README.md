@@ -39,24 +39,34 @@ Since visualization is sometimes referred to as the "face of every study," a lot
 
 **Front Page:**  This page includes the firm name, kind of report, and who developed the report, which was created using PowerPoint.
 
+
 ![Screenshot (264)](https://user-images.githubusercontent.com/124578882/218758548-eeacdd49-9d6a-4b4f-995c-55141587bd03.png)
 Figure 3: Front page
 
  
 **Overview page:**  This page displays total sales, total profit, the number of states, and product categories.
 
+
 ![Screenshot (255)](https://user-images.githubusercontent.com/124578882/218763119-f8e2cfa9-5ab6-4d5c-9088-bbfe4e7e7a9f.png)
 Figure 4.1: Overview page
+
 
 ![Screenshot (256)](https://user-images.githubusercontent.com/124578882/218763466-a6fa286e-3c4d-4bed-8c46-c1b6edba9976.png)
 Figure 4.2: Line chart & Bar Chart
 
+
 ![Screenshot (258)](https://user-images.githubusercontent.com/124578882/218764297-8552263f-93e0-4685-848f-76108144c5f3.png)
 Figure 4.3: Pie Chart & Stacked Area Chart
+
+
+
 
 **Overview at a glance**
 
 ![Screenshot (265)](https://user-images.githubusercontent.com/124578882/218775791-1d3b02e8-7e36-4b91-adb1-f9b638d6f67b.png)
+
+
+
 
 
 **SALES AND PROFIT OVERVIEW:** This page displays profit by city, regional sales totals, and the top five sub-categories by sales in various charts.
