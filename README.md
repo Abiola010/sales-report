@@ -27,5 +27,6 @@ As previously discussed in my previous project, the importance of data cleaning 
 After launching my Power BI Desktop, which I downloaded from its website, I entered the data into the program using the acquire data option, where I can use power query to make some additional changes, such as grouping relevant columns together (such as location, city, state, region, post code, country, amongst other grouped columns), adding and deleting columns where appropriate, separating fact tables from dimension tables, identifying primary keys (i.e. the one with the lowest value in each group), and so on.
 
 ![Screenshot (251)](https://user-images.githubusercontent.com/124578882/218732046-033a9427-82ac-407b-9e3d-b5546b4b31df.png)
+Figure 1: fact and dimension table in Data view
 
 After importing my dataset into Power BI, I was able to see the link between my fact table and dimension table using the model view.
