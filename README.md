@@ -27,7 +27,7 @@ As previously discussed in my previous project, the importance of data cleaning 
 After launching my Power BI Desktop, which I downloaded from its website, I entered the data into the program using the acquire data option, where I can use power query to make some additional changes, such as grouping relevant columns together (such as location, city, state, region, post code, country, amongst other grouped columns), adding and deleting columns where appropriate, separating fact tables from dimension tables, identifying primary keys (i.e. the one with the lowest value in each group), and so on.
 
 ![Screenshot (251)](https://user-images.githubusercontent.com/124578882/218732046-033a9427-82ac-407b-9e3d-b5546b4b31df.png)
-                                      Figure 1: fact and dimension table in Data view
+ Figure 1: fact and dimension table in Data view
 
 After importing my dataset into Power BI, I was able to see the link between my fact table and dimension table using the model view.
 ![Screenshot (251b)](https://user-images.githubusercontent.com/124578882/218754081-526c4b20-de9d-4172-b5fd-ea8297952922.png)
@@ -38,11 +38,13 @@ Figure 2: Model view; Relationship between fact and dimension tables
 Since visualization is sometimes referred to as the "face of every study," a lot of work has been spent on it, including in terms of page formatting, visual formatting, visual layout, and many other areas.
 
 **Front Page:**  This page includes the firm name, kind of report, and who developed the report, which was created using PowerPoint.
+
 ![Screenshot (264)](https://user-images.githubusercontent.com/124578882/218758548-eeacdd49-9d6a-4b4f-995c-55141587bd03.png)
 Figure 3: Front page
 
  
 **Overview page:**  This page displays total sales, total profit, the number of states, and product categories.
+
 ![Screenshot (255)](https://user-images.githubusercontent.com/124578882/218763119-f8e2cfa9-5ab6-4d5c-9088-bbfe4e7e7a9f.png)
 Figure 4.1: Overview page
 
@@ -54,6 +56,7 @@ Figure 4.3: Pie Chart & Stacked Area Chart
 
 
 **SALES AND PROFIT OVERVIEW:** This page displays profit by city, regional sales totals, and the top five sub-categories by sales in various charts.
+
 ![Screenshot (263)](https://user-images.githubusercontent.com/124578882/218764165-cf0fde2b-11e4-454d-bf48-890edb8ceb6c.png)
 
 
