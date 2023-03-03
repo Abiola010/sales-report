@@ -1,4 +1,5 @@
-**Sales-Report**
+**Sales-Report** 
+
 Assuming a Sales manager or analyst was asked to present to senior management, stakeholders, or other relevant parties a sales report relating to a company’s sales performance. The purpose of the report presentation is to provide a overview of the sales data, highlight trends and patterns, identify areas of improvement, and make recommendations for future sales strategies.
 
 **Introduction**
@@ -22,37 +23,40 @@ Figure 1: fact and dimension table in Data view
 
 After importing my dataset into Power BI, I was able to see the link between my fact table and dimension table using the model view.
 
-
+![image](https://user-images.githubusercontent.com/124578882/222846498-87ac1989-ba95-4abd-b2ee-219c4f0d0b1c.png)
 Figure 2: Model view; Relationship between fact and dimension tables
-DATA ANALYSIS
+
+**DATA ANALYSIS**
 
 Since visualization is sometimes referred to as the “face of every study,” a lot of work has been spent on it, including in terms of page formatting, visual formatting, visual layout, and many other areas.
 
 Overview page: This page displays total sales of over two million with total profit of over two hundred thousand from forty nine states, on three product categories.
 
-
+![image](https://user-images.githubusercontent.com/124578882/222846964-31c63597-95b8-49fa-99df-611899ff78c1.png)
 Figure 3: Overview page
+
 Regional Discount: Customers from Central region were given more discount, those in the Eastern, Western and Southern region follows.
-
-
+![image](https://user-images.githubusercontent.com/124578882/222847105-a6a7b3ad-9147-4666-8028-7ffe554b992e.png)
 Figure 4: Discount by Region in Bar chart
+
 Categorical Profit: The goods sold were categorized into three; Technology, office supplies, Furniture with 50.79, 42.77 and 6.44 with profit percent respectively.
-
-
+![image](https://user-images.githubusercontent.com/124578882/222847182-404d2901-92e5-46c6-a493-6b28601feb22.png)
 Figure 5: Profit by Category on Pie Chart
+
 Sub-Categorical sales: Goods sold were sub-categorized into different sections. Phones, Storage, Binders, Furnishings and Papers with over 300K, 200K,90K and 80K sales respectively were the top 5 selling goods.
-
-
+![image](https://user-images.githubusercontent.com/124578882/222848054-5f01dc1f-e79a-482b-98fc-aaeac90e2f12.png)
 Figure 6: Top 5 Sub-categorical sales in bar Chart
+
 Regional Supply: About more than 50 percentage of the quantities were supplied to the west.
-
-
+![image](https://user-images.githubusercontent.com/124578882/222848271-ed4dcf0d-3977-44f7-bc58-7f1ba5fea0b9.png)
 Figure 6: Regional Supply on Stacked Area Chart
+
 Profit by City: New York city, Los Angeles, Seattle, San Francisco and Detroit took the lead of the cities by profit.
-
-
+![image](https://user-images.githubusercontent.com/124578882/222848344-21d11f83-7a80-43a6-8235-8ae83198206b.png)
 Figure 7: Total profit made by city on Stacked Area Chart
+
 Recommendations: More discount offers should be allocated the western customers so as to boost sales although they get more supplies which is also a go of making more sales
 
+![image](https://user-images.githubusercontent.com/124578882/222848474-c7928a33-fecf-4a30-8317-71648b04dc84.png)
 
 In summary, Being in a 21st Century, technology especially phone had shown that it can be a front-line for other products by making about 33,000 sales. About 20.5% profit was made in the west, particularly in New York city, even with less quantity supplied.
