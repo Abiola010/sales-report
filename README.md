@@ -19,12 +19,12 @@ As previously discussed in my previous project, the importance of data cleaning 
 After launching my Power BI Desktop, which I downloaded from its website, I load the data into the application program using the get data option, where I can use power query to make some additional changes, such as grouping relevant columns together (such as location, city, state, region, postcode, country, amongst other grouped columns), adding and deleting columns where appropriate, separating fact tables from dimension tables, identifying primary keys (i.e. the one with the lowest value in each group), and so on.
 
 ![image](https://user-images.githubusercontent.com/124578882/222845029-d70a9bab-98fc-4ae3-92c9-a1b7d1dc751a.png)
-Figure 1: fact and dimension table in Data view
+            Figure 1: fact and dimension table in Data view
 
 After importing my dataset into Power BI, I was able to see the link between my fact table and dimension table using the model view.
 
 ![image](https://user-images.githubusercontent.com/124578882/222846498-87ac1989-ba95-4abd-b2ee-219c4f0d0b1c.png)
-Figure 2: Model view; Relationship between fact and dimension tables
+             Figure 2: Model view; Relationship between fact and dimension tables
 
 **DATA ANALYSIS**
 
@@ -33,7 +33,7 @@ Since visualization is sometimes referred to as the “face of every study,” a
 **Overview page:** This page displays total sales of over two million with total profit of over two hundred thousand from forty nine states, on three product categories.
 
 ![image](https://user-images.githubusercontent.com/124578882/222846964-31c63597-95b8-49fa-99df-611899ff78c1.png)
-Figure 3: Overview page
+            Figure 3: Overview page
 
 **Regional Discount:** Customers from Central region were given more discount, those in the Eastern, Western and Southern region follows.
 
