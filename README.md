@@ -1,77 +1,58 @@
-# Sales-Report
-Power BI is a unified and scalable self-service and enterprise business intelligence (BI) platform. Connect to and visualize any data, then effortlessly integrate the visualizaIntroductiontions into the programs you use every day.  Organizations can bring together data to analyze in seconds and reveal new insights with built-in AI capabilities.
+**Sales-Report**
+Assuming a Sales manager or analyst was asked to present to senior management, stakeholders, or other relevant parties a sales report relating to a company’s sales performance. The purpose of the report presentation is to provide a overview of the sales data, highlight trends and patterns, identify areas of improvement, and make recommendations for future sales strategies.
 
 **Introduction**
 
-In the context of becoming a data analyst, Microsoft Excel isn't the only tool used for analysis and visualization; Microsoft Power Business Intelligence (Power BI) is also a crucial tool used by data analysts.
+In the context of becoming a data analyst, Microsoft Excel isn’t the only tool used for analysis and visualization; Microsoft Power Business Intelligence (Power BI) is also a crucial tool used by data analysts.
 
-According to Wikipedia, Power BI is an interactive data visualization software application developed by Microsoft with a primary focus on business intelligence. It's a component of the Microsoft Power Platform. Power BI is a set of software services, apps, and connectors that work together to transform disparate data sources into cohesive, visually immersive, and interactive insights. Data can be obtained by reading directly from a database, a webpage, or structured files such as spreadsheets, CSVs, XMLs, and JSONs.
-
-In addition to a desktop-based interface named "Power BI Desktop," Power BI offers cloud-based BI (business intelligence) services under the name "Power BI Services." It provides data warehouse functionality such as data preparation, data discovery, and interactive dashboards. Microsoft launched Power BI Embedded on the Azure cloud platform in March 2016. The ability to import bespoke visualizations is one of the product's key differentiators.
-
-Power BI's original version was built on the Microsoft Excel add-ins Power Query, Power Pivot, and Power View. Microsoft also introduced many other features over time, such as Question and Answers, enterprise-level data integration, and security choices via Power BI Gateways. On July 24, 2015, Power BI was made available to the general public for the first time. It offers desktop, web, and mobile app versions, among others.
-
-The following are key components of the Power BI ecosystem:
-- Microsoft Power BI Desktop: The Windows desktop program for PCs and desktops is mostly used for developing and publishing reports to the Service.
-- Microsoft Power BI Service: The internet service is SaaS-based (software as a service). This was previously known as Power BI for Office 365, but it is now known as PowerBI.com, or just Power BI.
-- Mobile Power BI Apps:Power BI Mobile applications are available for Android, iOS, and Windows phones and tablets. (From Microsoft Power BI (2023, February 3)) Microsoft Power BI (https://en.wikipedia.org/wiki/Microsoft Power BI).
+Power BI is an interactive data visualization software application developed by Microsoft with a primary focus on business intelligence. It’s a component of the Microsoft Power Platform. Power BI is a set of software services, apps, and connectors that work together to transform disparate data sources into cohesive, visually immersive, and interactive insights. Data can be obtained by reading directly from a database, a webpage, or structured files such as spreadsheets, CSVs, XMLs, and JSONs. (From Microsoft Power BI (2023, February 3)) Microsoft Power BI
 
 **IN THE DATASET**
 
-During my training, I was given a financial data set (https://docs.google.com/spreadsheets/d/1ZNFEgWVu9aIWDsg9FvvvYxsAjuos2M7L/edit?usp=share_link&ouid=104831525385035733754&rtpof=true&sd=true) to explore my data analysis skills using Power BI.In summary, the dataset consists of twenty-two (22) columns and over 5000 rows labeled as Row ID, Order ID, Order Date, Ship Date, Ship Mode, Customer ID, Customer Name, Segment, Country, City, State, Postal Code, Region, Product ID, Category, Sub-Category, Product Name, Sales, Quantity, Discount, Profit, and Profit Margin.
+During my training, I was given a financial data set to explore my data analysis skills using Power BI. In summary, the dataset consists of twenty-two (22) columns and over 5000 rows labeled as Row ID, Order ID, Order Date, Ship Date, Ship Mode, Customer ID, Customer Name, Segment, Country, City, State, Postal Code, Region, Product ID, Category, Sub-Category, Product Name, Sales, Quantity, Discount, Profit, and Profit Margin.
 
 **CLEANING THE DATASET**
 
-As previously discussed in my previous project, the importance of data cleaning cannot be overstated in order to achieve a suitable result upon visualization.My cleaning procedure in Excel comprises deleting blanks and duplicates and converting to a table with color formatting.
+As previously discussed in my previous project, the importance of data cleaning cannot be overstated in order to achieve a suitable result upon visualization. My cleaning procedure in Excel comprises deleting blanks and duplicates and converting them into a table with color formatting.
 
-After launching my Power BI Desktop, which I downloaded from its website, I entered the data into the program using the acquire data option, where I can use power query to make some additional changes, such as grouping relevant columns together (such as location, city, state, region, post code, country, amongst other grouped columns), adding and deleting columns where appropriate, separating fact tables from dimension tables, identifying primary keys (i.e. the one with the lowest value in each group), and so on.
+After launching my Power BI Desktop, which I downloaded from its website, I load the data into the application program using the get data option, where I can use power query to make some additional changes, such as grouping relevant columns together (such as location, city, state, region, postcode, country, amongst other grouped columns), adding and deleting columns where appropriate, separating fact tables from dimension tables, identifying primary keys (i.e. the one with the lowest value in each group), and so on.
 
-![Screenshot (251)](https://user-images.githubusercontent.com/124578882/218732046-033a9427-82ac-407b-9e3d-b5546b4b31df.png)
- Figure 1: fact and dimension table in Data view
+![image](https://user-images.githubusercontent.com/124578882/222845029-d70a9bab-98fc-4ae3-92c9-a1b7d1dc751a.png)
+Figure 1: fact and dimension table in Data view
 
 After importing my dataset into Power BI, I was able to see the link between my fact table and dimension table using the model view.
-![Screenshot (251b)](https://user-images.githubusercontent.com/124578882/218754081-526c4b20-de9d-4172-b5fd-ea8297952922.png)
+
+
 Figure 2: Model view; Relationship between fact and dimension tables
+DATA ANALYSIS
 
-**DATA ANALYSIS**
+Since visualization is sometimes referred to as the “face of every study,” a lot of work has been spent on it, including in terms of page formatting, visual formatting, visual layout, and many other areas.
 
-Since visualization is sometimes referred to as the "face of every study," a lot of work has been spent on it, including in terms of page formatting, visual formatting, visual layout, and many other areas.
-
-**Front Page:**  This page includes the firm name, kind of report, and who developed the report, which was created using PowerPoint.
-
-
-![Screenshot (264)](https://user-images.githubusercontent.com/124578882/218758548-eeacdd49-9d6a-4b4f-995c-55141587bd03.png)
-Figure 3: Front page
-
- 
-**Overview page:**  This page displays total sales, total profit, the number of states, and product categories.
+Overview page: This page displays total sales of over two million with total profit of over two hundred thousand from forty nine states, on three product categories.
 
 
-![Screenshot (266)](https://user-images.githubusercontent.com/124578882/221126891-2509d636-a881-429a-8ee2-12e998a7092b.png)
-Figure 4.1: Overview page
+Figure 3: Overview page
+Regional Discount: Customers from Central region were given more discount, those in the Eastern, Western and Southern region follows.
 
 
-![Screenshot (267)](https://user-images.githubusercontent.com/124578882/221127687-bca26e51-c9ac-4411-b490-0195dd2c7ed5.png)
-Figure 4.2: Line chart & Bar Chart
+Figure 4: Discount by Region in Bar chart
+Categorical Profit: The goods sold were categorized into three; Technology, office supplies, Furniture with 50.79, 42.77 and 6.44 with profit percent respectively.
 
 
-![Screenshot (258)](https://user-images.githubusercontent.com/124578882/218764297-8552263f-93e0-4685-848f-76108144c5f3.png)
-Figure 4.3: Pie Chart & Stacked Area Chart
+Figure 5: Profit by Category on Pie Chart
+Sub-Categorical sales: Goods sold were sub-categorized into different sections. Phones, Storage, Binders, Furnishings and Papers with over 300K, 200K,90K and 80K sales respectively were the top 5 selling goods.
 
 
+Figure 6: Top 5 Sub-categorical sales in bar Chart
+Regional Supply: About more than 50 percentage of the quantities were supplied to the west.
 
 
-**Overview at a glance**
-
-![Screenshot (265)](https://user-images.githubusercontent.com/124578882/218775791-1d3b02e8-7e36-4b91-adb1-f9b638d6f67b.png)
-Figure 4.4: Report at a glance
+Figure 6: Regional Supply on Stacked Area Chart
+Profit by City: New York city, Los Angeles, Seattle, San Francisco and Detroit took the lead of the cities by profit.
 
 
+Figure 7: Total profit made by city on Stacked Area Chart
+Recommendations: More discount offers should be allocated the western customers so as to boost sales although they get more supplies which is also a go of making more sales
 
 
-**SALES AND PROFIT OVERVIEW:** This page displays profit by city, regional sales totals, and the top five sub-categories by sales in various charts.
-
-![Screenshot (263)](https://user-images.githubusercontent.com/124578882/218764165-cf0fde2b-11e4-454d-bf48-890edb8ceb6c.png)
-Figure 5: Sales and profit  in chart
-
-**In summary,** more profit was produced in the west, particularly in New York, whereas phones are the top-selling sub-category.
+In summary, Being in a 21st Century, technology especially phone had shown that it can be a front-line for other products by making about 33,000 sales. About 20.5% profit was made in the west, particularly in New York city, even with less quantity supplied.
