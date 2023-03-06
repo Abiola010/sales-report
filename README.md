@@ -16,7 +16,7 @@ During my training, I was given a financial data set to explore my data analysis
 
 As previously discussed in my previous project, the importance of data cleaning cannot be overstated in order to achieve a suitable result upon visualization. My cleaning procedure in Excel comprises deleting blanks and duplicates and converting them into a table with color formatting.
 
-After launching my Power BI Desktop, which I downloaded from its website, I load the data into the application program using the get data option, where I can use power query to make some additional changes, such as grouping relevant columns together (such as location, city, state, region, postcode, country, amongst other grouped columns), adding and deleting columns where appropriate, separating fact tables from dimension tables, identifying primary keys (i.e. the one with the lowest value in each group), and so on.
+After launching my Power BI Desktop, which I downloaded from its website, I loaded the data into the application program using the get data option, where I can use power query to make some additional changes, such as grouping relevant columns together (such as location, city, state, region, postcode, country, amongst other grouped columns), adding and deleting columns where appropriate, separating fact tables from dimension tables, identifying primary keys (i.e. the one with the lowest value in each group), and so on.
 
 ![image](https://user-images.githubusercontent.com/124578882/222845029-d70a9bab-98fc-4ae3-92c9-a1b7d1dc751a.png)
             
@@ -53,17 +53,18 @@ Figure 5: Profit by Category on Pie Chart
 **Sub-Categorical sales:** Goods sold were sub-categorized into different sections. Phones, Storage, Binders, Furnishings and Papers with over 300K, 200K,90K and 80K sales respectively were the top 5 selling goods.
 
 ![image](https://user-images.githubusercontent.com/124578882/222848054-5f01dc1f-e79a-482b-98fc-aaeac90e2f12.png)
+
 Figure 6: Top 5 Sub-categorical sales in bar Chart
 
 **Regional Supply:** About more than 50 percentage of the quantities were supplied to the west.
 ![image](https://user-images.githubusercontent.com/124578882/222848271-ed4dcf0d-3977-44f7-bc58-7f1ba5fea0b9.png)
 
-Figure 6: Regional Supply on Stacked Area Chart
+Figure 7: Regional Supply on Stacked Area Chart
 
-Profit by City: New York city, Los Angeles, Seattle, San Francisco and Detroit took the lead of the cities by profit.
+**Profit by City:** New York city, Los Angeles, Seattle, San Francisco and Detroit took the lead of the cities by profit.
 ![image](https://user-images.githubusercontent.com/124578882/222848344-21d11f83-7a80-43a6-8235-8ae83198206b.png)
 
-Figure 7: Total profit made by city on Stacked Area Chart
+Figure 8: Total profit made by city on Stacked Area Chart
 
 **Recommendations**: More discount offers should be allocated the western customers so as to boost sales although they get more supplies which is also a go of making more sales
 
